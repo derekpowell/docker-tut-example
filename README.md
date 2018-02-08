@@ -1,2 +1,3 @@
 # docker-tut-example
-an example docker repo for my tutorial
+
+An example docker repo for my tutorial.
